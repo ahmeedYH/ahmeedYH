@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmeedYH&color=blue)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hanchouch.site-black?style=flat&logo=vercel)](https://www.hanchouch.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Yassine_Hanchouch-0077B5?style=flat&logo=linkedin)]([[https://www.linkedin.com/in/ahmed-yassine-hanchouch](https://www.linkedin.com/in/ahmed-yassine-hanchouch-49a9a4330/)](https://www.linkedin.com/in/ahmed-yassine-hanchouch-49a9a4330/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AHMED YASSINE%20HANCHOUCH-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-yassine-hanchouch-49a9a4330/)
 [![Email](https://img.shields.io/badge/Email-ahmedhanchouch99@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedhanchouch99@gmail.com)
 
 ---
